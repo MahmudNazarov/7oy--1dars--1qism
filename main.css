@@ -1,0 +1,76 @@
+.Watches__1{
+    background: linear-gradient(45deg, #ffd071, #ffeaae);
+}
+.header{
+    display: flex;
+    gap: 800px;
+    margin-left: 150px;
+    margin-top: 25px;
+    background: linear-gradient(45deg, #ffd071, #ffeaae);
+}
+#a__div{
+    width: 350px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+.a{
+    text-decoration: none;
+    color: black;
+}
+.a:hover{
+    color: mediumturquoise;
+}
+#Sign__up{
+    width: 65px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    margin-top: -5px;
+    border-radius: 15px;
+}
+#Sign__up:hover{
+    color: mediumturquoise;
+}
+.div__information{
+    width: 1496px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.black{
+    color: black;
+}
+.white{
+    color: white;
+    width: 513px;
+    height: 50px;
+    font-size: 50px;
+    margin-top: 125px;
+}
+.div__text{
+    height: auto;
+}
+.div__text__p{
+    width: 513px;
+    height: 75px;
+    font-size: x-large;
+    margin-top: 50px;
+}
+.one{
+    margin-top: -50px;
+    width: 613px;
+    font-size: 30px;
+}
+.swiper {
+    width: 600px;
+    height: 600px;
+}
+.swiper-wrapper{
+    align-items: center;
+}
+.narh{
+    font-size: 75px;
+}
